@@ -1,0 +1,8 @@
+{
+  "name": "HadirKu - Sistem Absensi Barcode Siswa",
+  "description": "Aplikasi daftar hadir siswa sekolah berbasis barcode/QR code yang terintegrasi dengan Google Drive dan laporan kehadiran harian otomatis ke email guru.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
